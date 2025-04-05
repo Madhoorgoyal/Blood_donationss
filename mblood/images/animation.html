@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+666666666666666666
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blood Donation Animation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f8f8f8;
+        }
+        .container {
+            position: relative;
+            width: 80%;
+            max-width: 900px;
+        }
+        .image {
+            width: 100%;
+            display: block;
+        }
+        .blood-flow {
+            position: absolute;
+            top: 50%;
+            right: 15%;
+            width: 0;
+            height: 4px;
+            background-color: red;
+            animation: bloodMove 3s linear infinite;
+        }
+        .floating {
+            position: absolute;
+            animation: float 3s ease-in-out infinite alternate;
+        }
+        .leaf {
+            top: 20%;
+            right: 10%;
+            animation-delay: 1s;
+        }
+        .drop {
+            top: 60%;
+            right: 20%;
+            animation-delay: 2s;
+        }
+        .text {
+            position: absolute;
+            top: 20%;
+            left: 5%;
+            font-size: 24px;
+            font-weight: bold;
+            color: red;
+            opacity: 0;
+            animation: fadeIn 2s ease-in-out forwards;
+        }
+
+        @keyframes bloodMove {
+            0% { width: 0; }
+            100% { width: 100px; }
+        }
+        @keyframes float {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(-10px); }
+        }
+        @keyframes fadeIn {
+            0% { opacity: 0; transform: scale(0.8); }
+            100% { opacity: 1; transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="hero.jpg" alt="Donate Blood" class="image">
+        <div class="blood-flow"></div>
+        <div class="floating leaf">🍃</div>
+        <div class="floating drop">💧</div>
+        <div class="text">Donate Blood Today!</div>
+    </div>
+</body>
+</html>
