@@ -13,6 +13,11 @@
 --Admin page where by login using admin id and password database can be manipulated that is can delete the donor and accept,reject or delete the request for a blood and also other transaction.
 
 ---To login as admin    Name-admin              and                    password-123
+
+
+**OUTPUTS**
+
+**1. HOME PAGE** 
 ![Screenshot (226)](https://github.com/user-attachments/assets/26eafeb3-0321-4e98-b71b-58accc17934a)
 
 ![Screenshot (227)](https://github.com/user-attachments/assets/3f8fee3f-0e16-41e3-b9fc-ba8caf53595d)
