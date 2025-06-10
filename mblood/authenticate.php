@@ -3,7 +3,7 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "blood_donation";
-$admin_username = "admin";
+$admin_username = "MadhurGoyal";
 $admin_password = 123; 
 
 
