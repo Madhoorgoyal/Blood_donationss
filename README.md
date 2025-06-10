@@ -4,7 +4,7 @@
 **Installation**
 1.Install XAMPP or WAMPP.
 
-2.Open XAMPP Control panal and start [apache] and [mysql] .
+2.Open WAMPP Software .
 
 3.Download project from github(https://github.com/Madhoorgoyal/Blood_donationss/).
 
@@ -12,17 +12,15 @@
 
 5.Open link localhost/phpmyadmin
 
-6.Click on new at side navbar.
+6.Cick on import.
 
-7.Cick on import.
+7.Browse the file in directory[c://wamp64/www/mblood/sql/db.sql].
 
-8.Browse the file in directory[c://wamp64/www/mblood/sql/db.sql].
+8.After importing successfully.
 
-9.After importing successfully.
+9.Open any browser and type http://localhost/mblood/.
 
-10.Open any browser and type http://localhost/mblood/.
-
-Admin Panel
+10.Admin Panel
 
 Username = MadhurGoyal
 Password = 123
