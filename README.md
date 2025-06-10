@@ -1,4 +1,4 @@
-This project is based on blood donation which uses the HTML,CSS,JAVASCRIPT,PHP and MYSQL. All source code is written in easy form. This project offers the following features :----
+  This project is based on blood donation which uses the HTML,CSS,JAVASCRIPT,PHP and MYSQL. All source code is written in easy form. This project offers the following features :----
 
 --Home page which include the information about blood donation like who can donate ,process of donations etc.
 
@@ -13,20 +13,47 @@ This project is based on blood donation which uses the HTML,CSS,JAVASCRIPT,PHP a
 --Admin page where by login using admin id and password database can be manipulated that is can delete the donor and accept,reject or delete the request for a blood and also other transaction.
 
 ---To login as admin    Name-admin              and                    password-123
+![Screenshot (226)](https://github.com/user-attachments/assets/26eafeb3-0321-4e98-b71b-58accc17934a)
+
+![Screenshot (227)](https://github.com/user-attachments/assets/3f8fee3f-0e16-41e3-b9fc-ba8caf53595d)
+
+![Screenshot (228)](https://github.com/user-attachments/assets/251f34dc-17a4-4c0f-806a-325918d10e64)
 
 ![Screenshot (211)](https://github.com/user-attachments/assets/71f5f326-8c75-430a-bd8e-057493eabcaf)
-![Screenshot (244)](https://github.com/user-attachments/assets/11bf1304-9349-47e3-8a21-6463cc8be99d)
-![Screenshot (243)](https://github.com/user-attachments/assets/dd66617d-cce6-4d1e-a4a1-8554038215fa)
-![Screenshot (242)](https://github.com/user-attachments/assets/a1509c6c-fd93-486c-ae5c-4d72fe34057e)
-![Screenshot (241)](https://github.com/user-attachments/assets/1fe284f9-d6c8-460c-b88f-3200dd0773a1)
-![Screenshot (240)](https://github.com/user-attachments/assets/806784af-cc40-4e42-aed3-e4e95134997b)
-![Screenshot (239)](https://github.com/user-attachments/assets/55074ae8-ad26-44dd-b942-b8360c16ba44)
-![Screenshot (238)](https://github.com/user-attachments/assets/e021ed57-71cd-4d3b-be89-a817b5f370d8)
-![Screenshot (237)](https://github.com/user-attachments/assets/31c036f1-0066-4596-9614-0e8a3a6ca511)
-![Screenshot (236)](https://github.com/user-attachments/assets/928f770a-b760-403f-9e25-058a24581d6d)
-![Screenshot (235)](https://github.com/user-attachments/assets/556a4fcf-7310-4eb0-bd16-3debc23a3b07)
-![Screenshot (234)](https://github.com/user-attachments/assets/2751e9b9-23ac-4501-97ab-179715c368fd)
+
 ![Screenshot (229)](https://github.com/user-attachments/assets/1d320b41-06d4-43a3-ae5d-ffa5f289e5e5)
-![Screenshot (228)](https://github.com/user-attachments/assets/251f34dc-17a4-4c0f-806a-325918d10e64)
-![Screenshot (227)](https://github.com/user-attachments/assets/3f8fee3f-0e16-41e3-b9fc-ba8caf53595d)
-![Screenshot (226)](https://github.com/user-attachments/assets/26eafeb3-0321-4e98-b71b-58accc17934a)
+
+![Screenshot (234)](https://github.com/user-attachments/assets/2751e9b9-23ac-4501-97ab-179715c368fd)
+
+![Screenshot (235)](https://github.com/user-attachments/assets/556a4fcf-7310-4eb0-bd16-3debc23a3b07)
+
+![Screenshot (236)](https://github.com/user-attachments/assets/928f770a-b760-403f-9e25-058a24581d6d)
+
+![Screenshot (237)](https://github.com/user-attachments/assets/31c036f1-0066-4596-9614-0e8a3a6ca511)
+
+![Screenshot (238)](https://github.com/user-attachments/assets/e021ed57-71cd-4d3b-be89-a817b5f370d8)
+
+![Screenshot (239)](https://github.com/user-attachments/assets/55074ae8-ad26-44dd-b942-b8360c16ba44)
+
+![Screenshot (240)](https://github.com/user-attachments/assets/806784af-cc40-4e42-aed3-e4e95134997b)
+
+![Screenshot (241)](https://github.com/user-attachments/assets/1fe284f9-d6c8-460c-b88f-3200dd0773a1)
+
+![Screenshot (242)](https://github.com/user-attachments/assets/a1509c6c-fd93-486c-ae5c-4d72fe34057e)
+
+![Screenshot (243)](https://github.com/user-attachments/assets/dd66617d-cce6-4d1e-a4a1-8554038215fa)
+
+![Screenshot (244)](https://github.com/user-attachments/assets/11bf1304-9349-47e3-8a21-6463cc8be99d)
+
+
+
+
+
+
+
+
+
+
+
+
+
